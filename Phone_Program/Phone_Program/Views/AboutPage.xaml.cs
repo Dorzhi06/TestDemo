@@ -10,6 +10,7 @@ namespace Phone_Program.Views
         public AboutPage()
         {
             InitializeComponent();
+            int a = 5;
         }
     }
 }
